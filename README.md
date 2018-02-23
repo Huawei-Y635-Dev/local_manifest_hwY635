@@ -32,7 +32,7 @@ _Building from source_
 
 First:
 
-	cd ~/lineage
+	cd ~/dot
 
 Second:
 
