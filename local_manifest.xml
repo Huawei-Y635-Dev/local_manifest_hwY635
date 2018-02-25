@@ -2,14 +2,14 @@
 <manifest>
 
   <!-- Device Tree -->
-  <project path="device/huawei/hwY635" name="msm1/android_device" remote="github" revision="cm-14.1" />
+  <project path="device/huawei/hwY635" name="HUAWEI-hwY635/android_device_huawei_hwY635" remote="github" revision="cm-14.1" />
   <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
   
   <!-- Vendor -->
-  <project path="vendor/huawei" name="msm1/proprietary_vendor" remote="github" revision="cm-14.1" />
+  <project path="vendor/huawei" name="HUAWEI-hwY635/proprietary_vendor_huawei" remote="github" revision="cm-14.1" />
   
   <!-- Kernel -->
-  <project path="kernel/huawei/hwY635" name="msm1/android_kernel_huawei_hwY635" remote="github" revision="cm-14.1" />
+  <project path="kernel/huawei/hwY635" name="HUAWEI-hwY635/android_kernel_huawei_hwY635" remote="github" revision="cm-14.1" />
     
   <!-- Extra packages -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
