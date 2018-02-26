@@ -17,7 +17,7 @@ To initialize your local repository using the Turbo ROM trees, use this command:
 
 Also add the local manifests:
 
-	git clone https://github.com/HUAWEI-hwY635/local_manifest -b dot-n .repo/local_manifests
+	git clone https://github.com/AndroidC-512L/local_manifest_hwY635 -b dot-n .repo/local_manifests
 
 Then sync up with this command:
 
